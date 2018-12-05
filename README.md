@@ -1,0 +1,2 @@
+# PersoVimAutoInstall
+Script AutoInstallVim
